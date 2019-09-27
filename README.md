@@ -1,7 +1,5 @@
-# FlappyBird
-
-## Lập trình nâng cao
-
+# Lập trình nâng cao
+## FlappyBird
 ## Nhóm 4
 Vũ Minh Hoàng
 
