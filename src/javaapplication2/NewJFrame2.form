@@ -42,7 +42,7 @@
         <Component class="javax.swing.JLabel" name="bird">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="E:\LapTrinhNangCao\Image\bird.png"/>
+              <Image iconType="3" name="/javaapplication2/bird.png"/>
             </Property>
           </Properties>
           <AuxValues>
@@ -76,7 +76,7 @@
         <Component class="javax.swing.JLabel" name="pipe2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="E:\LapTrinhNangCao\Image\ong.png"/>
+              <Image iconType="3" name="/javaapplication2/ong.png"/>
             </Property>
           </Properties>
           <AuxValues>
@@ -91,7 +91,7 @@
         <Component class="javax.swing.JLabel" name="pipe1">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="E:\LapTrinhNangCao\Image\ong.png"/>
+              <Image iconType="3" name="/javaapplication2/ong.png"/>
             </Property>
           </Properties>
           <AuxValues>
@@ -122,7 +122,7 @@
         <Component class="javax.swing.JLabel" name="pipe3">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="E:\LapTrinhNangCao\Image\pipe1.jpg"/>
+              <Image iconType="3" name="/javaapplication2/pipe1.jpg"/>
             </Property>
           </Properties>
           <AuxValues>
@@ -137,7 +137,7 @@
         <Component class="javax.swing.JLabel" name="pipe4">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="E:\LapTrinhNangCao\Image\pipe1.jpg"/>
+              <Image iconType="3" name="/javaapplication2/pipe1.jpg"/>
             </Property>
           </Properties>
           <AuxValues>
@@ -152,7 +152,7 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="E:\LapTrinhNangCao\Image\background.png"/>
+              <Image iconType="3" name="/javaapplication2/background.png"/>
             </Property>
           </Properties>
           <Events>

@@ -55,7 +55,7 @@ public class NewJFrame extends javax.swing.JFrame {
         jPanel1.add(jButton2);
         jButton2.setBounds(50, 270, 240, 70);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("E:\\LapTrinhNangCao\\Image\\interface.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/javaapplication2/interface.jpg"))); // NOI18N
         jPanel1.add(jLabel1);
         jLabel1.setBounds(0, 0, 600, 390);
 

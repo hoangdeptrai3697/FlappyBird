@@ -48,7 +48,7 @@ public class NewJFrame2 extends javax.swing.JFrame {
 
         jPanel1.setLayout(null);
 
-        bird.setIcon(new javax.swing.ImageIcon("E:\\LapTrinhNangCao\\Image\\bird.png")); // NOI18N
+        bird.setIcon(new javax.swing.ImageIcon(getClass().getResource("/javaapplication2/bird.png"))); // NOI18N
         jPanel1.add(bird);
         bird.setBounds(80, 140, 60, 40);
 
@@ -63,11 +63,11 @@ public class NewJFrame2 extends javax.swing.JFrame {
         jPanel1.add(jButton1);
         jButton1.setBounds(350, 350, 180, 70);
 
-        pipe2.setIcon(new javax.swing.ImageIcon("E:\\LapTrinhNangCao\\Image\\ong.png")); // NOI18N
+        pipe2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/javaapplication2/ong.png"))); // NOI18N
         jPanel1.add(pipe2);
         pipe2.setBounds(610, 320, 150, 790);
 
-        pipe1.setIcon(new javax.swing.ImageIcon("E:\\LapTrinhNangCao\\Image\\ong.png")); // NOI18N
+        pipe1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/javaapplication2/ong.png"))); // NOI18N
         jPanel1.add(pipe1);
         pipe1.setBounds(220, 300, 150, 790);
 
@@ -77,15 +77,15 @@ public class NewJFrame2 extends javax.swing.JFrame {
         jPanel1.add(point_lb);
         point_lb.setBounds(790, 10, 90, 40);
 
-        pipe3.setIcon(new javax.swing.ImageIcon("E:\\LapTrinhNangCao\\Image\\pipe1.jpg")); // NOI18N
+        pipe3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/javaapplication2/pipe1.jpg"))); // NOI18N
         jPanel1.add(pipe3);
         pipe3.setBounds(600, -600, 160, 800);
 
-        pipe4.setIcon(new javax.swing.ImageIcon("E:\\LapTrinhNangCao\\Image\\pipe1.jpg")); // NOI18N
+        pipe4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/javaapplication2/pipe1.jpg"))); // NOI18N
         jPanel1.add(pipe4);
         pipe4.setBounds(210, -640, 160, 800);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("E:\\LapTrinhNangCao\\Image\\background.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/javaapplication2/background.png"))); // NOI18N
         jLabel1.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel1MouseClicked(evt);
